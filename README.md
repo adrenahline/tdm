@@ -1,0 +1,4 @@
+tdm
+===
+
+gmod gamemode
